@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-screen record of the app: https://drive.google.com/file/d/1ypnHTLp7xVkSpmRRwKjWYvoO4ei03sly/view
+screen record of the app: https://drive.google.com/file/d/1Zqefn75v1hlmM0oflT-QnabbHRsFuqR2/view
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
